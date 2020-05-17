@@ -11,6 +11,7 @@ export default {
         lastName,
         bio
       });
+      console.log(user);
       return user;
     }
   }

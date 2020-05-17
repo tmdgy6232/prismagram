@@ -9,5 +9,5 @@ type Mutation {
 }
 
 type Query {
-  something: String
+  something: String!
 }
