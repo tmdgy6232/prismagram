@@ -502,503 +502,505 @@ export const nouns = [
   "cat",
 ];
 
-fragile
-tested
-graceful
-known
-judicious
-gabby
-rustic
-zippy
-smelly
-waiting
-nonstop
-beautiful
-hypnotic
-condemned
-absorbing
-imminent
-gray
-thirsty
-torpid
-omniscient
-superb
-sharp
-long
-terrific
-lively
-slippery
-faded
-lovely
-wakeful
-magical
-cagey
-upbeat
-black-and-white
-distinct
-wandering
-hellish
-huge
-empty
-adjoining
-tame
-fumbling
-nice
-doubtful
-disastrous
-breakable
-harmonious
-aquatic
-auspicious
-petite
-ill-informed
-waggish
-delightful
-humorous
-violet
-statuesque
-cloudy
-productive
-precious
-questionable
-devilish
-abashed
-friendly
-automatic
-jittery
-fixed
-wacky
-damp
-sudden
-burly
-teeny-tiny
-political
-rare
-acceptable
-defeated
-elfin
-narrow
-few
-dreary
-supreme
-public
-ossified
-witty
-past
-jazzy
-redundant
-dusty
-exclusive
-necessary
-temporary
-simple
-exotic
-shaggy
-three
-sick
-expensive
-complete
-adorable
-glamorous
-chief
-colossal
-private
-thundering
-immense
-adaptable
-warlike
-wry
-capricious
-shaky
-lopsided
-righteous
-learned
-jumbled
-finicky
-maniacal
-sulky
-irate
-lively
-melodic
-early
-cultured
-slow
-quick
-many
-minor
-fortunate
-luxuriant
-nostalgic
-possessive
-sneaky
-internal
-ad hoc
-quizzical
-absent
-various
-loving
-six
-maddening
-fanatical
-ordinary
-boring
-obnoxious
-red
-living
-unadvised
-organic
-thankful
-tidy
-rural
-deep
-greasy
-dysfunctional
-itchy
-incompetent
-alcoholic
-separate
-abortive
-puzzling
-giddy
-five
-flat
-loutish
-squeamish
-crazy
-madly
-trite
-happy
-frightening
-icy
-clammy
-unkempt
-superficial
-scandalous
-enchanted
-ludicrous
-makeshift
-neighborly
-taboo
-momentous
-rotten
-massive
-watery
-gentle
-alluring
-fine
-decorous
-abnormal
-jealous
-smooth
-tangy
-tacit
-abusive
-sad
-poor
-spotless
-quarrelsome
-tranquil
-teeny
-mundane
-crowded
-observant
-half
-windy
-erect
-loud
-handy
-large
-dark
-homeless
-tearful
-enchanting
-nappy
-slim
-goofy
-offbeat
-disillusioned
-pushy
-gusty
-flippant
-physical
-quirky
-lewd
-horrible
-scrawny
-pumped
-rabid
-befitting
-obsequious
-wooden
-workable
-thinkable
-impartial
-royal
-disgusting
-false
-ultra
-acidic
-equable
-colorful
-enthusiastic
-joyous
-tender
-dispensable
-slimy
-magenta
-helpless
-scarce
-changeable
-mellow
-childlike
-elastic
-handsomely
-melted
-weary
-agreeable
-normal
-remarkable
-abject
-dashing
-hurried
-whole
-wet
-honorable
-kind
-useful
-picayune
-humdrum
-hollow
-far
-two
-attractive
-abrasive
-macabre
-chivalrous
-diligent
-married
-deranged
-equal
-hospitable
-mixed
-curvy
-unequaled
-penitent
-parched
-well-to-do
-hungry
-cooing
-unequal
-good
-idiotic
-boorish
-fallacious
-nine
-flowery
-aspiring
-creepy
-inquisitive
-dramatic
-awake
-spotted
-hapless
-drunk
-silky
-efficient
-wrathful
-delicate
-vagabond
-frightened
-oceanic
-violent
-protective
-real
-spiffy
-ripe
-premium
-womanly
-mute
-exciting
-impossible
-feeble
-shiny
-kaput
-odd
-wise
-imaginary
-sleepy
-white
-best
-grubby
-fluttering
-selfish
-soggy
-zesty
-shivering
-outstanding
-straight
-imperfect
-free
-shallow
-swift
-damaged
-smoggy
-belligerent
-motionless
-sloppy
-cute
-exuberant
-strange
-old-fashioned
-awesome
-wild
-fertile
-well-made
-uptight
-scared
-energetic
-ragged
-raspy
-strong
-wretched
-versed
-lean
-cheerful
-true
-harsh
-fabulous
-tough
-wiggly
-lush
-piquant
-big
-hushed
-squalid
-heady
-mean
-bawdy
-eminent
-envious
-cumbersome
-dizzy
-pale
-receptive
-fearless
-short
-grumpy
-plain
-incredible
-dull
-tightfisted
-unique
-wary
-dapper
-nippy
-purring
-pathetic
-glossy
-periodic
-aboriginal
-kindhearted
-vengeful
-wanting
-dynamic
-mere
-deafening
-curly
-handsome
-educated
-freezing
-important
-halting
-succinct
-ruthless
-abundant
-impolite
-historical
-illustrious
-moaning
-petite
-subsequent
-uppity
-ceaseless
-panoramic
-regular
-faulty
-venomous
-debonair
-towering
-shut
-foamy
-poised
-tired
-ugliest
-rampant
-right
-brave
-unruly
-racial
-thoughtful
-chemical
-glorious
-used
-thirsty
-dangerous
-lumpy
-stale
-stereotyped
-juicy
-habitual
-recondite
-unhealthy
-coordinated
-snobbish
-possible
-ill-fated
-needless
-untidy
-unsightly
-hideous
-tangible
-tall
-overrated
-robust
-miniature
-gruesome
-parallel
-young
-noiseless
-sour
-powerful
-arrogant
-moldy
-overjoyed
-absurd
-stormy
-sore
-excited
-well-groomed
-rapid
-quiet
-icky
-previous
-excellent
-satisfying
-chunky
-mountainous
-resolute
-addicted
-brown
-available
-steady
-clean
-lackadaisical
-guarded
-earsplitting
-valuable
-amuck
-sticky
-angry
-weak
-sordid
-spectacular
+export const adjectives = [
+  "fragile",
+  "tested",
+  "graceful",
+  "known",
+  "judicious",
+  "gabby",
+  "rustic",
+  "zippy",
+  "smelly",
+  "waiting",
+  "nonstop",
+  "beautiful",
+  "hypnotic",
+  "condemned",
+  "absorbing",
+  "imminent",
+  "gray",
+  "thirsty",
+  "torpid",
+  "omniscient",
+  "superb",
+  "sharp",
+  "long",
+  "terrific",
+  "lively",
+  "slippery",
+  "faded",
+  "lovely",
+  "wakeful",
+  "magical",
+  "cagey",
+  "upbeat",
+  "black-and-white",
+  "distinct",
+  "wandering",
+  "hellish",
+  "huge",
+  "empty",
+  "adjoining",
+  "tame",
+  "fumbling",
+  "nice",
+  "doubtful",
+  "disastrous",
+  "breakable",
+  "harmonious",
+  "aquatic",
+  "auspicious",
+  "petite",
+  "ill-informed",
+  "waggish",
+  "delightful",
+  "humorous",
+  "violet",
+  "statuesque",
+  "cloudy",
+  "productive",
+  "precious",
+  "questionable",
+  "devilish",
+  "abashed",
+  "friendly",
+  "automatic",
+  "jittery",
+  "fixed",
+  "wacky",
+  "damp",
+  "sudden",
+  "burly",
+  "teeny-tiny",
+  "political",
+  "rare",
+  "acceptable",
+  "defeated",
+  "elfin",
+  "narrow",
+  "few",
+  "dreary",
+  "supreme",
+  "public",
+  "ossified",
+  "witty",
+  "past",
+  "jazzy",
+  "redundant",
+  "dusty",
+  "exclusive",
+  "necessary",
+  "temporary",
+  "simple",
+  "exotic",
+  "shaggy",
+  "three",
+  "sick",
+  "expensive",
+  "complete",
+  "adorable",
+  "glamorous",
+  "chief",
+  "colossal",
+  "private",
+  "thundering",
+  "immense",
+  "adaptable",
+  "warlike",
+  "wry",
+  "capricious",
+  "shaky",
+  "lopsided",
+  "righteous",
+  "learned",
+  "jumbled",
+  "finicky",
+  "maniacal",
+  "sulky",
+  "irate",
+  "lively",
+  "melodic",
+  "early",
+  "cultured",
+  "slow",
+  "quick",
+  "many",
+  "minor",
+  "fortunate",
+  "luxuriant",
+  "nostalgic",
+  "possessive",
+  "sneaky",
+  "internal",
+  "ad hoc",
+  "quizzical",
+  "absent",
+  "various",
+  "loving",
+  "six",
+  "maddening",
+  "fanatical",
+  "ordinary",
+  "boring",
+  "obnoxious",
+  "red",
+  "living",
+  "unadvised",
+  "organic",
+  "thankful",
+  "tidy",
+  "rural",
+  "deep",
+  "greasy",
+  "dysfunctional",
+  "itchy",
+  "incompetent",
+  "alcoholic",
+  "separate",
+  "abortive",
+  "puzzling",
+  "giddy",
+  "five",
+  "flat",
+  "loutish",
+  "squeamish",
+  "crazy",
+  "madly",
+  "trite",
+  "happy",
+  "frightening",
+  "icy",
+  "clammy",
+  "unkempt",
+  "superficial",
+  "scandalous",
+  "enchanted",
+  "ludicrous",
+  "makeshift",
+  "neighborly",
+  "taboo",
+  "momentous",
+  "rotten",
+  "massive",
+  "watery",
+  "gentle",
+  "alluring",
+  "fine",
+  "decorous",
+  "abnormal",
+  "jealous",
+  "smooth",
+  "tangy",
+  "tacit",
+  "abusive",
+  "sad",
+  "poor",
+  "spotless",
+  "quarrelsome",
+  "tranquil",
+  "teeny",
+  "mundane",
+  "crowded",
+  "observant",
+  "half",
+  "windy",
+  "erect",
+  "loud",
+  "handy",
+  "large",
+  "dark",
+  "homeless",
+  "tearful",
+  "enchanting",
+  "nappy",
+  "slim",
+  "goofy",
+  "offbeat",
+  "disillusioned",
+  "pushy",
+  "gusty",
+  "flippant",
+  "physical",
+  "quirky",
+  "lewd",
+  "horrible",
+  "scrawny",
+  "pumped",
+  "rabid",
+  "befitting",
+  "obsequious",
+  "wooden",
+  "workable",
+  "thinkable",
+  "impartial",
+  "royal",
+  "disgusting",
+  "false",
+  "ultra",
+  "acidic",
+  "equable",
+  "colorful",
+  "enthusiastic",
+  "joyous",
+  "tender",
+  "dispensable",
+  "slimy",
+  "magenta",
+  "helpless",
+  "scarce",
+  "changeable",
+  "mellow",
+  "childlike",
+  "elastic",
+  "handsomely",
+  "melted",
+  "weary",
+  "agreeable",
+  "normal",
+  "remarkable",
+  "abject",
+  "dashing",
+  "hurried",
+  "whole",
+  "wet",
+  "honorable",
+  "kind",
+  "useful",
+  "picayune",
+  "humdrum",
+  "hollow",
+  "far",
+  "two",
+  "attractive",
+  "abrasive",
+  "macabre",
+  "chivalrous",
+  "diligent",
+  "married",
+  "deranged",
+  "equal",
+  "hospitable",
+  "mixed",
+  "curvy",
+  "unequaled",
+  "penitent",
+  "parched",
+  "well-to-do",
+  "hungry",
+  "cooing",
+  "unequal",
+  "good",
+  "idiotic",
+  "boorish",
+  "fallacious",
+  "nine",
+  "flowery",
+  "aspiring",
+  "creepy",
+  "inquisitive",
+  "dramatic",
+  "awake",
+  "spotted",
+  "hapless",
+  "drunk",
+  "silky",
+  "efficient",
+  "wrathful",
+  "delicate",
+  "vagabond",
+  "frightened",
+  "oceanic",
+  "violent",
+  "protective",
+  "real",
+  "spiffy",
+  "ripe",
+  "premium",
+  "womanly",
+  "mute",
+  "exciting",
+  "impossible",
+  "feeble",
+  "shiny",
+  "kaput",
+  "odd",
+  "wise",
+  "imaginary",
+  "sleepy",
+  "white",
+  "best",
+  "grubby",
+  "fluttering",
+  "selfish",
+  "soggy",
+  "zesty",
+  "shivering",
+  "outstanding",
+  "straight",
+  "imperfect",
+  "free",
+  "shallow",
+  "swift",
+  "damaged",
+  "smoggy",
+  "belligerent",
+  "motionless",
+  "sloppy",
+  "cute",
+  "exuberant",
+  "strange",
+  "old-fashioned",
+  "awesome",
+  "wild",
+  "fertile",
+  "well-made",
+  "uptight",
+  "scared",
+  "energetic",
+  "ragged",
+  "raspy",
+  "strong",
+  "wretched",
+  "versed",
+  "lean",
+  "cheerful",
+  "true",
+  "harsh",
+  "fabulous",
+  "tough",
+  "wiggly",
+  "lush",
+  "piquant",
+  "big",
+  "hushed",
+  "squalid",
+  "heady",
+  "mean",
+  "bawdy",
+  "eminent",
+  "envious",
+  "cumbersome",
+  "dizzy",
+  "pale",
+  "receptive",
+  "fearless",
+  "short",
+  "grumpy",
+  "plain",
+  "incredible",
+  "dull",
+  "tightfisted",
+  "unique",
+  "wary",
+  "dapper",
+  "nippy",
+  "purring",
+  "pathetic",
+  "glossy",
+  "periodic",
+  "aboriginal",
+  "kindhearted",
+  "vengeful",
+  "wanting",
+  "dynamic",
+  "mere",
+  "deafening",
+  "curly",
+  "handsome",
+  "educated",
+  "freezing",
+  "important",
+  "halting",
+  "succinct",
+  "ruthless",
+  "abundant",
+  "impolite",
+  "historical",
+  "illustrious",
+  "moaning",
+  "petite",
+  "subsequent",
+  "uppity",
+  "ceaseless",
+  "panoramic",
+  "regular",
+  "faulty",
+  "venomous",
+  "debonair",
+  "towering",
+  "shut",
+  "foamy",
+  "poised",
+  "tired",
+  "ugliest",
+  "rampant",
+  "right",
+  "brave",
+  "unruly",
+  "racial",
+  "thoughtful",
+  "chemical",
+  "glorious",
+  "used",
+  "thirsty",
+  "dangerous",
+  "lumpy",
+  "stale",
+  "stereotyped",
+  "juicy",
+  "habitual",
+  "recondite",
+  "unhealthy",
+  "coordinated",
+  "snobbish",
+  "possible",
+  "ill-fated",
+  "needless",
+  "untidy",
+  "unsightly",
+  "hideous",
+  "tangible",
+  "tall",
+  "overrated",
+  "robust",
+  "miniature",
+  "gruesome",
+  "parallel",
+  "young",
+  "noiseless",
+  "sour",
+  "powerful",
+  "arrogant",
+  "moldy",
+  "overjoyed",
+  "absurd",
+  "stormy",
+  "sore",
+  "excited",
+  "well-groomed",
+  "rapid",
+  "quiet",
+  "icky",
+  "previous",
+  "excellent",
+  "satisfying",
+  "chunky",
+  "mountainous",
+  "resolute",
+  "addicted",
+  "brown",
+  "available",
+  "steady",
+  "clean",
+  "lackadaisical",
+  "guarded",
+  "earsplitting",
+  "valuable",
+  "amuck",
+  "sticky",
+  "angry",
+  "weak",
+  "sordid",
+  "spectacular",
+];
