@@ -6,7 +6,7 @@ import logger from "morgan";
 import schema from "./schema";
 import { sendSecretMail } from "./utils";
 
-sendSecretMail("tmdgy6232@gmail.com", "123");
+sendSecretMail("tmdgy6232@naver.com", "123");
 
 const PORT = process.env.PORT || 4000;
 
